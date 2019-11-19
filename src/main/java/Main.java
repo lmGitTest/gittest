@@ -3,5 +3,6 @@ public class Main {
         String s = "";
         System.out.println();
         int n = 1;
+        int r = 2;
     }
 }
